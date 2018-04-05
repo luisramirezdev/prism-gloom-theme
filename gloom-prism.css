@@ -146,6 +146,12 @@ code.language-scss,
   color: #fff !important; }
 
 /*
+* Lenguage HTML
+*/
+.language-html .token .tag {
+  color: #FF6F9F; }
+
+/*
 * Lenguage PHP
 */
 .language-php {

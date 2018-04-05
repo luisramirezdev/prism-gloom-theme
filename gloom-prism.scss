@@ -193,6 +193,17 @@ code.language-scss,
 }
 
 /*
+* Lenguage HTML
+*/
+
+.language-html {
+   .token {
+      & .tag {
+         color: $pink-light;
+      }
+   }
+}
+/*
 * Lenguage PHP
 */
 
