@@ -30,14 +30,20 @@ Should be something like that:
 
 ## Language JavaScript
 
+![Language JavaScript](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/javascript.png)
 
 ## Language Python
 
+![Language CSS](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/python.png)
 
 ## Language PHP
 
+![Language CSS](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/php.png)
 
 ## Language CSS
 
+![Language CSS](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/css.png)
 
 ## Language HTML
+
+![Language CSS](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/html.png)
