@@ -34,11 +34,11 @@ Should be something like that:
 
 ## Language Python
 
-![Language CSS](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/python.png)
+![Language Python](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/python.png)
 
 ## Language PHP
 
-![Language CSS](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/php.png)
+![Language PHP](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/php.png)
 
 ## Language CSS
 
@@ -46,4 +46,4 @@ Should be something like that:
 
 ## Language HTML
 
-![Language CSS](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/html.png)
+![Language HTML](https://raw.githubusercontent.com/luisramirez-m/prism-gloom-theme/master/images/html-V2.png)
