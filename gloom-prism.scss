@@ -25,6 +25,8 @@ $pink-light: #FF6F9F;
 $pink-dark: #F92672;
 $yellow: #FFDB7D;
 
+$purple-100:#b4b4ff;
+
 code[class*="language-"],
 pre[class*="language-"] {
    font-family: Menlo, Consolas, 'DejaVu Sans Mono', monospace;
@@ -92,7 +94,7 @@ pre[class*="language-"] {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-   color:  $purple-dark;
+   color:  $purple-100;
    font-style: italic;
 }
 
